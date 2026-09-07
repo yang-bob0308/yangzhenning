@@ -1,0 +1,7 @@
+:HL["/yangzhenning/_next/static/chunks/0b4cpbaqyfcm1.css","style"]
+:HL["/yangzhenning/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/images/work/20.jpg","image"]
+:HL["/images/work/5.jpg","image"]
+:HL["/images/work/7.jpg","image"]
+:HL["/images/work/9.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"articles","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"aicao-industry","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"s5kH1Gf3QPoVOqezgwvA0"}
